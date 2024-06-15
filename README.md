@@ -193,13 +193,3 @@ sh
 Copiar código
 nano README.md
 Paste the README content provided above.
-
-Initialize Git, Commit, and Push:
-
-sh
-Copiar código
-git init
-git add .
-git commit -m "Initial commit with data, scripts, and documentation"
-git remote add origin https://github.com/your-username/Climate_Antarctic_Lakes_Analysis.git
-git push -u origin main
