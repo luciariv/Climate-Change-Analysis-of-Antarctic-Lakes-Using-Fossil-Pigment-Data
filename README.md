@@ -1,7 +1,7 @@
 # Climate-Change-Analysis-of-Antarctic-Lakes-Using-Fossil-Pigment-Data
 Master Thesis
 markdown
-Copiar código
+Copy code
 # Climate Change Analysis of Antarctic Lakes Using Fossil Pigment Data
 
 This project analyzes fossil pigment data from lake sediment cores to infer past environmental changes. The analysis includes data normalization, Principal Component Analysis (PCA), and visualization of pigment concentration profiles.
